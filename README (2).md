@@ -1,5 +1,4 @@
 # GPT From Scratch
-
 A character-level GPT-style language model implemented from scratch in
 PyTorch and trained on the **Tiny Shakespeare** dataset.
 
